@@ -1,4 +1,4 @@
-//hellow 2
+//hellow 2 - Class2
 public class SampleClass2 {
 
 	public static void main(String[] args) {
