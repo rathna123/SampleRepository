@@ -1,4 +1,4 @@
-// local change
+// remote change
 public class SampleClass {
 
 	public static void main(String[] args) {
