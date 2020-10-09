@@ -6,7 +6,7 @@ public class Class5 {
 	//random
 	public void main(String args[])
 	{
-		System.out.println("hoio");
+		System.out.println("hoi");
 	}
 	
 }
