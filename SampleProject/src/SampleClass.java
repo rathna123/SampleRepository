@@ -5,6 +5,7 @@ public class SampleClass {
 		System.out.println(" master branches -thellow1");
 		//remote merge test
 		//remote merge test again
+		//remote merge test again
 
 	}
 
