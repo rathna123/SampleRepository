@@ -4,6 +4,7 @@ public class Class5 {
   //class-2
 	
 	//random
+	//random
 	public void main(String args[])
 	{
 		System.out.println("test message-Master");
