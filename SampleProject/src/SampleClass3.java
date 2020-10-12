@@ -6,6 +6,7 @@ public class SampleClass3 {
 		System.out.println(" mastr  - I am a Class3");
 		System.out.println(" mastr  - I am a Class33");
 		System.out.println(" mastr  - I am a Classyyyyyyyyyyyyyyysss");
+		//new comment
 	}
 
 }
