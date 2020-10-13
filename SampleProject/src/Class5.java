@@ -7,7 +7,7 @@ public class Class5 {
 	//random
 	public void main(String args[])
 	{
-		System.out.println("test message-masterRemote");
+		System.out.println("test message-masterRemotes");
 	}
 	
 }
