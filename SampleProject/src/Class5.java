@@ -5,7 +5,6 @@ public class Class5 {
 	
 	//random
 	//random
-	//now
 	public void main(String args[])
 	{
 		System.out.println("test message-Locals");
