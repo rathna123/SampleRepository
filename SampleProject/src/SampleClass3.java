@@ -5,8 +5,8 @@ public class SampleClass3 {
 		// TODO Auto-generated method stub
 		System.out.println(" mastr  - I am a Class3");
 		System.out.println(" mastr  - I am a Class33");
-		System.out.println(" mastr  - I am a Classyyyyyyyyyyyyyyyssstt");
-		//new comment
+		System.out.println(" mastr  - I am a Classyyyyyyyyyyyyyyymaster");
+		//new comments
 	}
 
 }
