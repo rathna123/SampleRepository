@@ -6,6 +6,11 @@ public class SampleClass {
 		//remote merge test
 		//remote merge test again
 		//remote merge test again
+		//remote merge test again-new
+		
+		//newly added
+		//haa
+		//huu
 
 	}
 
