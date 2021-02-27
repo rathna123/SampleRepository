@@ -1,6 +1,6 @@
 
 public class OldClass {
 
-hi di
+hi ra
 
 }
